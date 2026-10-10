@@ -2,7 +2,7 @@
   "pnrs": {
     "surat-rings": {
       "chart_prepared": false,
-      "checked_at": "2026-10-07T07:59:19.528919+00:00",
+      "checked_at": "2026-10-10T07:57:01.677784+00:00",
       "confirmed": false,
       "current_statuses": [
         "CNF",
@@ -24,5 +24,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-07T07:59:19.529107+00:00"
+  "updated_at": "2026-10-10T07:57:01.677895+00:00"
 }
