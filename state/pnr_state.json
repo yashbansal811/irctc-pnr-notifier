@@ -2,7 +2,7 @@
   "pnrs": {
     "surat-rings": {
       "chart_prepared": false,
-      "checked_at": "2026-11-07T08:05:31.612867+00:00",
+      "checked_at": "2026-11-10T09:01:57.357160+00:00",
       "confirmed": false,
       "current_statuses": [
         "CNF",
@@ -14,8 +14,8 @@
       ],
       "pnr": "8454133569",
       "pnr_id": "surat-rings",
-      "provider": "easemytrip",
-      "raw_summary": "Train 22451 BDTS CDG SF EXP | Chart: Chart Not Prepared | Current: CNF, CNF, RLWL  1, RLWL  2, RLWL  3, RLWL  4",
+      "provider": "rapidapi",
+      "raw_summary": "Train 22451 BDTS CDG SF EXP | Chart: False | Current: CNF, CNF, RLWL  1, RLWL  2, RLWL  3, RLWL  4",
       "waiting_numbers": [
         1,
         2,
@@ -24,5 +24,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-07T08:05:31.613032+00:00"
+  "updated_at": "2026-11-10T09:01:57.357338+00:00"
 }
